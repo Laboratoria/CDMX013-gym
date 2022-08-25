@@ -16,3 +16,7 @@
 
 - [**Array diff**](./exercises/array-diff/README.md)
 - [**Pangram**](./exercises/pangram/README.md)
+
+## kahoot
+
+[https://create.kahoot.it/share/gym-session-05/109feb5e-8f37-4d9e-ab88-dd1fbed3fdc9](https://create.kahoot.it/share/gym-session-05/109feb5e-8f37-4d9e-ab88-dd1fbed3fdc9)
