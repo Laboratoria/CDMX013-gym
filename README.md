@@ -17,3 +17,5 @@
 - ### [Sesión 07](./session-07/README.md)
 
 - ### [Sesión 08](./session-08/README.md)
+
+- ### [Sesión 09 (Tech interview practice)](./session-09/README.md)
