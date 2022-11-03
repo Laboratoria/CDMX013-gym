@@ -25,3 +25,9 @@
 - ### [Sesión 11](./session-11/README.md)
 
 - ### [Sesión 12](./session-12/README.md)
+
+- ### [Sesión 13 (Tech interview two)](./session-13/README.md)
+
+- ### [Sesión 14 (Tech interview three)](./session-14/README.md)
+
+- ### [Sesión 15](./session-15/README.md)
