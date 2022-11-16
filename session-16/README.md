@@ -25,3 +25,7 @@
 - [Power N](./exercises/power-n/README.md)
 
 - [Triangle](./exercises/triangle/README.md)
+
+## Kahoot
+
+- [https://create.kahoot.it/share/gym-session-alternative/2def213f-07ff-4d5a-995d-ec58a2fe48c8](https://create.kahoot.it/share/gym-session-alternative/2def213f-07ff-4d5a-995d-ec58a2fe48c8)
