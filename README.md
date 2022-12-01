@@ -37,3 +37,5 @@
 - ### [Sesión 17](./session-17/README.md)
 
 - ### [Sesión 18](./session-18/README.md)
+
+- ### [Sesión 19 (Retro Tech interview)](./session-19/README.md)
