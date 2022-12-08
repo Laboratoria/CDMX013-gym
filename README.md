@@ -39,3 +39,5 @@
 - ### [Sesión 18](./session-18/README.md)
 
 - ### [Sesión 19 (Retro Tech interview)](./session-19/README.md)
+
+- ### [Sesión 20 (Retro cierre gym CDMX013)](./session-20/README.md)
